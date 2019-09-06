@@ -1,0 +1,1 @@
+{"jobID":"2c907922-619a-44d3-d567-aebf455eea30","spec":{"type":"policy","cause":{"Message":"","User":"Damjan Pörtsch \u003cpoertsch@iot40systems.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
