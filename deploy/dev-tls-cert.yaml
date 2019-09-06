@@ -12,6 +12,7 @@ spec:
       http01:
         ingress: ""
         ingressClass: traefik
+        
   dnsNames:
   - training-user-37.training.weave.works
   issuerRef:
